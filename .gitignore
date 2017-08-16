@@ -1,0 +1,7 @@
+# projects, cache, build
+.idea/
+*.iml
+.gradle/
+build/
+gradle/
+out/
