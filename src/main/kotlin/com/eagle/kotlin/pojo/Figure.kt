@@ -1,4 +1,4 @@
-package com.eagle.kotlin.nest
+package com.eagle.kotlin.pojo
 
 /**
  * Created in project kotlin-vs-java on 15.08.2017

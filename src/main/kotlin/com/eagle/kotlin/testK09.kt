@@ -1,6 +1,6 @@
 package com.eagle.kotlin
 
-import com.eagle.kotlin.nest.Figure
+import com.eagle.kotlin.pojo.Figure
 
 class testK09 {
 

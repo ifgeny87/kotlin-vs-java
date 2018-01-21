@@ -15,7 +15,7 @@ class testK07 {
 		}
 
 	fun run(): String {
-		val f = {"W = $width, H = $height, S = $square" }
+		val f = {"W = $width, H = $height, Singleton = $square" }
 		val s1 = f()
 		square = 1600.0
 		val s2 = f()
